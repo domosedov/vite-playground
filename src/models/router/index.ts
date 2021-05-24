@@ -1,5 +1,6 @@
 import { attach } from 'effector'
 import { createGate } from 'effector-react'
+
 import { appDomain } from '../domain'
 import { RouteWatcherGateState } from './types'
 
